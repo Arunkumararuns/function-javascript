@@ -1,4 +1,5 @@
 # function-javascript
+var x=1
 a()
 b()
 
